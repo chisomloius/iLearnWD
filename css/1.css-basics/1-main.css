@@ -1,0 +1,32 @@
+/*
+How CSS Property Values can be specified is given below:
+Keywords - thick, thin, larger;
+Physical Measures - in, pt, pc;
+Screen Measures - px;
+Relative Measures - %, em, rem;
+Color Codes - #rrggbb, rgb(r, g, b);
+Fonts - links, builtins;
+Functional notations - rgb(r, g, b), - url('https://example.com/bg.jpg')  
+Star  Selectors - *
+*/
+*{
+    color: white;
+}
+body { 
+    background-color:#cccc99;  
+    background-image: url('bg.jpg');     
+}
+
+p {
+    font-size: 1.5em;
+    border-style: solid;
+    border-color: Black;
+    border-width: 5px;
+    width: 200px;
+}
+
+div{
+    width:50%;
+}
+
+

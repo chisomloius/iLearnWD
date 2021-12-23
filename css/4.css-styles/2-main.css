@@ -1,0 +1,39 @@
+/*
+Properties Names: 
+text-indent             
+letter-spacing           
+word=spacing            
+text-decoration
+text-align
+text-transform
+vertical-align
+horizontal-align
+
+*/
+
+.code 
+{
+    font-size: 0.9em; 
+}
+
+ol
+{
+    font-style:italic;
+    font-size: 0.9em;
+}
+
+h1 
+{
+    font-family: 'Times New Roman', Serif;
+    font-size:1.2em; 
+    text-align: center;
+    letter-spacing: 2em;
+    word-spacing: 1.2em;
+}
+
+.content
+{
+    background: #eeeecc;
+    padding: 7px;
+    line-height: 1em;
+}

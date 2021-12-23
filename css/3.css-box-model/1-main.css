@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px
+}
+
+ul{
+    list-style: none;
+    background-color: goldenrod;
+}
+
+ul li{
+    
+    padding: 10px;
+    margin: 25px;
+    border-radius: 2px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: honeydew;
+}

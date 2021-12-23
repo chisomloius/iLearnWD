@@ -1,0 +1,43 @@
+/*
+Major Font Family Name  | Collection Names
+Times New Romans        | serif  ***
+Arial                   | san-serif ***   
+Comic Sans              | cursive
+Imapct                  | fantasy    
+Courier New             | monospace
+
+*/
+body{
+    background: rebeccapurple;
+    font-family: sans-serif; /*'Arial', 'Helvetica', san-serif*/
+}
+
+.copyright
+{
+    font-weight:bold;
+    font-size: 0.8em;
+}
+
+.code 
+{
+    font-size: 0.9em; 
+}
+
+ol
+{
+    font-style:italic;
+    font-size: 0.9em;
+}
+
+h1 
+{
+    font-family: 'Times New Roman', Serif;
+    font-size:1.2em; 
+    text-align: center;
+}
+
+.content
+{
+    background: #eeeecc;
+    padding: 7px;
+}

@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px
+}
+
+.menu{
+    text-align: center;
+    list-style: none;
+    background-color: goldenrod;
+}
+
+.menu li{
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 2px;
+    border-width: 2px;
+    
+    
+}
+{
+
+}
+.menu li a {
+    text-decoration: none;
+}
+
